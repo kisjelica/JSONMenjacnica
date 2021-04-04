@@ -1,0 +1,19 @@
+{
+  "izvornaValuta": "USD",
+  "krajnjaValuta": "CAD",
+  "pocetniIznos": 95.0,
+  "krajnjiIznos": 119.484825,
+  "datumTransakcije": {
+    "date": {
+      "year": 2021,
+      "month": 4,
+      "day": 4
+    },
+    "time": {
+      "hour": 21,
+      "minute": 50,
+      "second": 48,
+      "nano": 877000000
+    }
+  }
+}
