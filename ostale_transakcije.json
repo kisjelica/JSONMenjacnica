@@ -1,0 +1,59 @@
+[
+  {
+    "izvornaValuta": "USD",
+    "krajnjaValuta": "EUR",
+    "pocetniIznos": 100.0,
+    "krajnjiIznos": 88.988,
+    "datumTransakcije": {
+      "date": {
+        "year": 2020,
+        "month": 7,
+        "day": 2
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }
+  },
+  {
+    "izvornaValuta": "USD",
+    "krajnjaValuta": "CHF",
+    "pocetniIznos": 100.0,
+    "krajnjiIznos": 94.5595,
+    "datumTransakcije": {
+      "date": {
+        "year": 2020,
+        "month": 7,
+        "day": 2
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }
+  },
+  {
+    "izvornaValuta": "USD",
+    "krajnjaValuta": "CAD",
+    "pocetniIznos": 100.0,
+    "krajnjiIznos": 135.7055,
+    "datumTransakcije": {
+      "date": {
+        "year": 2020,
+        "month": 7,
+        "day": 2
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    }
+  }
+]
